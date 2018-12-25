@@ -1,4 +1,9 @@
 rom
 ran
 rannn
+<<<<<<< HEAD
 fun6
+=======
+fun
+fun2
+>>>>>>> feature_branch
